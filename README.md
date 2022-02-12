@@ -1,4 +1,4 @@
-# obsidian Timelines
+# test
 ![GitHub release)](https://img.shields.io/github/v/release/Darakah/obsidian-timelines)
 ![GitHub all releases](https://img.shields.io/github/downloads/Darakah/obsidian-timelines/total)
 
